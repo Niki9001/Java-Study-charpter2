@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/*
+/**
  * TODO：无限循环
  * 语法格式：
  * 最简单的无限循环格式：while(true)，for(;;)
