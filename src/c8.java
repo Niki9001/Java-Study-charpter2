@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-/*
-* 循环之一：while循环
+/**
+* 循环之一：do-while循环
 * 1. 循环结构四要素
 *   1. 初始化部分
 *   2. 循环条件部分 ---->一定是boolean类型的变量或表达式
