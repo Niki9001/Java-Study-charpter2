@@ -19,7 +19,7 @@ class ScannerTest {
         //2. 提供（或创建） 一个Scanner类的实例
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Please input your name: ");
+        System.out.print("Please input your name:  ");
         //3. 调用Scanner类中的方法，获取指定类型的变量
         // 姓名
         String name = scan.next();
