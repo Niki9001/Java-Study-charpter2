@@ -40,7 +40,7 @@ class ScannerTest {
         char gender = scan.next().charAt(0);
         System.out.println("His gender is " + gender);
 
-        //TODO:4. 关闭资源，调用Scanner类的close()
+        //TODO:4. 关闭资源， 调用Scanner类的close()
         scan.close();
     }
 }
