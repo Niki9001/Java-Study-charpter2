@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/*
+/**
 * 循环之一：while循环
 * 1. 循环结构四要素
 *   1. 初始化部分
