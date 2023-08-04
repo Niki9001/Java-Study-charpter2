@@ -39,7 +39,7 @@ class IfElseTest{
     public static void main(String[] args){
         int heartBeats = 89;
         if (60 >= heartBeats && heartBeats > 100){
-            System.out.println("More check");
+            System.out.println("More check ");
         }
         System.out.println("Finish");
     }
