@@ -1,3 +1,6 @@
+/**
+ * exercise
+ * */
 import java.util.Scanner;
 
 public class c5 {
